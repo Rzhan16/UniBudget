@@ -9,7 +9,7 @@ const Nav = ({userName}) => {
             aria-label='Go to home'
             >
                 <img src={boxmoney} height={'50px'} width={'50px'} alt="logo" />
-                <span>AlyconrBudget</span>
+                <span>UniBudget</span>
             </NavLink>
             {
                 userName && (
