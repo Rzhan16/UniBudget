@@ -25,11 +25,11 @@ Before you begin, ensure you have the following prerequisites installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/react-budget-app.git
+   git clone https://github.com/Rzhan16/UniBudget.git
    ```
 
 2. ```bash
-   cd react-budget-app```	
+   cd UniBudget```	
 
 3. ```bash
    npm install
@@ -38,7 +38,7 @@ Before you begin, ensure you have the following prerequisites installed:
 ## Usage
 
 1. ```bash
-   cd react-budget-app
+   cd UniBudget
    npm run dev
    ```
 ## Features
