@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://rzhan16.github.io/UniBudget",
   "scripts": {
     "start": "node server.js",
     "dev": "vite",
