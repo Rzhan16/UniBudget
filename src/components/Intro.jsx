@@ -7,7 +7,7 @@ const Intro = () => {
         <div className="intro">
         <div>
             <h1>Take Control of <span className="accent">your finances</span></h1>
-            <p>Track your expenses, create budgets and get insights on your spending patterns in one place. </p>
+            <p>Effortlessly manage your expenses, build personalized budgets, and gain valuable insights into your spending habits—all in one convenient platform. </p>
             <Form method="post">
                 <input type="text" name="userName" placeholder="Enter your name" required aria-label="Enter your name auto" autoComplete="given-name" />
                 <input type="hidden" name="_action" value="newUser" /> 
